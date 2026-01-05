@@ -1,7 +1,6 @@
 name: safe_click
 description: A Flutter package to prevent double taps or rapid clicks.
-version: 1.1.0
-
+version: 0.0.2
 homepage: https://github.com/hasaanmk11/safe_click
 repository: https://github.com/hasaanmk11/safe_click
 
